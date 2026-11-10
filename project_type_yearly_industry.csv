@@ -1,0 +1,211 @@
+year,industry_cluster,project_type,total_announcements,count,pct
+2021,Advanced Manufacturing,Consolidation,817,17,2.08078335373317
+2021,Advanced Manufacturing,Expansion,817,47,5.752753977968176
+2021,Advanced Manufacturing,New Facility,817,52,6.364749082007344
+2021,Advanced Manufacturing,Relocation,817,14,1.7135862913096693
+2021,Advanced Manufacturing,Renovation,817,6,0.7343941248470013
+2022,Advanced Manufacturing,Consolidation,835,13,1.5568862275449102
+2022,Advanced Manufacturing,Expansion,835,41,4.910179640718563
+2022,Advanced Manufacturing,New Facility,835,53,6.347305389221557
+2022,Advanced Manufacturing,Relocation,835,23,2.754491017964072
+2022,Advanced Manufacturing,Renovation,835,5,0.5988023952095809
+2023,Advanced Manufacturing,Consolidation,812,17,2.0935960591133003
+2023,Advanced Manufacturing,Expansion,812,56,6.896551724137931
+2023,Advanced Manufacturing,New Facility,812,44,5.41871921182266
+2023,Advanced Manufacturing,Relocation,812,20,2.4630541871921183
+2023,Advanced Manufacturing,Renovation,812,12,1.477832512315271
+2024,Advanced Manufacturing,Consolidation,826,11,1.331719128329298
+2024,Advanced Manufacturing,Expansion,826,52,6.2953995157385
+2024,Advanced Manufacturing,New Facility,826,46,5.569007263922518
+2024,Advanced Manufacturing,Relocation,826,19,2.3002421307506054
+2024,Advanced Manufacturing,Renovation,826,9,1.0895883777239708
+2025,Advanced Manufacturing,Consolidation,848,16,1.8867924528301887
+2025,Advanced Manufacturing,Expansion,848,50,5.89622641509434
+2025,Advanced Manufacturing,New Facility,848,63,7.429245283018868
+2025,Advanced Manufacturing,Relocation,848,24,2.8301886792452833
+2025,Advanced Manufacturing,Renovation,848,6,0.7075471698113208
+2026,Advanced Manufacturing,Consolidation,862,13,1.5081206496519721
+2026,Advanced Manufacturing,Expansion,862,58,6.728538283062645
+2026,Advanced Manufacturing,New Facility,862,49,5.68445475638051
+2026,Advanced Manufacturing,Relocation,862,16,1.8561484918793503
+2026,Advanced Manufacturing,Renovation,862,11,1.2761020881670533
+2021,Energy & Chemicals,Consolidation,817,9,1.101591187270502
+2021,Energy & Chemicals,Expansion,817,61,7.466340269277846
+2021,Energy & Chemicals,New Facility,817,54,6.6095471236230106
+2021,Energy & Chemicals,Relocation,817,16,1.9583843329253363
+2021,Energy & Chemicals,Renovation,817,10,1.2239902080783354
+2022,Energy & Chemicals,Consolidation,835,9,1.0778443113772456
+2022,Energy & Chemicals,Expansion,835,53,6.347305389221557
+2022,Energy & Chemicals,New Facility,835,43,5.149700598802395
+2022,Energy & Chemicals,Relocation,835,19,2.2754491017964074
+2022,Energy & Chemicals,Renovation,835,4,0.47904191616766467
+2023,Energy & Chemicals,Consolidation,812,12,1.477832512315271
+2023,Energy & Chemicals,Expansion,812,46,5.665024630541872
+2023,Energy & Chemicals,New Facility,812,49,6.0344827586206895
+2023,Energy & Chemicals,Relocation,812,25,3.0788177339901477
+2023,Energy & Chemicals,Renovation,812,8,0.9852216748768473
+2024,Energy & Chemicals,Consolidation,826,15,1.8159806295399514
+2024,Energy & Chemicals,Expansion,826,63,7.627118644067797
+2024,Energy & Chemicals,New Facility,826,45,5.447941888619854
+2024,Energy & Chemicals,Relocation,826,21,2.5423728813559325
+2024,Energy & Chemicals,Renovation,826,7,0.847457627118644
+2025,Energy & Chemicals,Consolidation,848,11,1.2971698113207548
+2025,Energy & Chemicals,Expansion,848,51,6.014150943396227
+2025,Energy & Chemicals,New Facility,848,32,3.7735849056603774
+2025,Energy & Chemicals,Relocation,848,22,2.5943396226415096
+2025,Energy & Chemicals,Renovation,848,12,1.4150943396226416
+2026,Energy & Chemicals,Consolidation,862,23,2.668213457076566
+2026,Energy & Chemicals,Expansion,862,56,6.496519721577726
+2026,Energy & Chemicals,New Facility,862,50,5.800464037122969
+2026,Energy & Chemicals,Relocation,862,15,1.740139211136891
+2026,Energy & Chemicals,Renovation,862,8,0.9280742459396751
+2021,Food & Beverage,Consolidation,817,7,0.8567931456548347
+2021,Food & Beverage,Expansion,817,24,2.937576499388005
+2021,Food & Beverage,New Facility,817,27,3.3047735618115053
+2021,Food & Beverage,Relocation,817,4,0.4895960832313341
+2021,Food & Beverage,Renovation,817,4,0.4895960832313341
+2022,Food & Beverage,Consolidation,835,4,0.47904191616766467
+2022,Food & Beverage,Expansion,835,19,2.2754491017964074
+2022,Food & Beverage,New Facility,835,32,3.8323353293413174
+2022,Food & Beverage,Relocation,835,11,1.3173652694610778
+2022,Food & Beverage,Renovation,835,5,0.5988023952095809
+2023,Food & Beverage,Consolidation,812,5,0.6157635467980296
+2023,Food & Beverage,Expansion,812,29,3.571428571428571
+2023,Food & Beverage,New Facility,812,15,1.8472906403940887
+2023,Food & Beverage,Relocation,812,15,1.8472906403940887
+2023,Food & Beverage,Renovation,812,6,0.7389162561576355
+2024,Food & Beverage,Consolidation,826,6,0.7263922518159807
+2024,Food & Beverage,Expansion,826,23,2.784503631961259
+2024,Food & Beverage,New Facility,826,32,3.87409200968523
+2024,Food & Beverage,Relocation,826,9,1.0895883777239708
+2024,Food & Beverage,Renovation,826,7,0.847457627118644
+2025,Food & Beverage,Consolidation,848,7,0.8254716981132075
+2025,Food & Beverage,Expansion,848,28,3.30188679245283
+2025,Food & Beverage,New Facility,848,24,2.8301886792452833
+2025,Food & Beverage,Relocation,848,7,0.8254716981132075
+2025,Food & Beverage,Renovation,848,5,0.589622641509434
+2026,Food & Beverage,Consolidation,862,5,0.580046403712297
+2026,Food & Beverage,Expansion,862,29,3.3642691415313224
+2026,Food & Beverage,New Facility,862,22,2.5522041763341066
+2026,Food & Beverage,Relocation,862,5,0.580046403712297
+2026,Food & Beverage,Renovation,862,3,0.34802784222737815
+2021,Industrial Services,Consolidation,817,5,0.6119951040391677
+2021,Industrial Services,Expansion,817,31,3.7943696450428397
+2021,Industrial Services,New Facility,817,24,2.937576499388005
+2021,Industrial Services,Relocation,817,5,0.6119951040391677
+2021,Industrial Services,Renovation,817,5,0.6119951040391677
+2022,Industrial Services,Consolidation,835,10,1.1976047904191618
+2022,Industrial Services,Expansion,835,26,3.1137724550898205
+2022,Industrial Services,New Facility,835,30,3.592814371257485
+2022,Industrial Services,Relocation,835,9,1.0778443113772456
+2022,Industrial Services,Renovation,835,10,1.1976047904191618
+2023,Industrial Services,Consolidation,812,1,0.12315270935960591
+2023,Industrial Services,Expansion,812,13,1.600985221674877
+2023,Industrial Services,New Facility,812,26,3.201970443349754
+2023,Industrial Services,Relocation,812,7,0.8620689655172413
+2023,Industrial Services,Renovation,812,4,0.49261083743842365
+2024,Industrial Services,Consolidation,826,4,0.48426150121065376
+2024,Industrial Services,Expansion,826,18,2.1791767554479415
+2024,Industrial Services,New Facility,826,23,2.784503631961259
+2024,Industrial Services,Relocation,826,10,1.2106537530266344
+2024,Industrial Services,Renovation,826,4,0.48426150121065376
+2025,Industrial Services,Consolidation,848,9,1.0613207547169812
+2025,Industrial Services,Expansion,848,19,2.240566037735849
+2025,Industrial Services,New Facility,848,24,2.8301886792452833
+2025,Industrial Services,Relocation,848,4,0.4716981132075472
+2025,Industrial Services,Renovation,848,2,0.2358490566037736
+2026,Industrial Services,Consolidation,862,8,0.9280742459396751
+2026,Industrial Services,Expansion,862,15,1.740139211136891
+2026,Industrial Services,New Facility,862,18,2.088167053364269
+2026,Industrial Services,Relocation,862,6,0.6960556844547563
+2026,Industrial Services,Renovation,862,5,0.580046403712297
+2021,Information Technology,Consolidation,817,10,1.2239902080783354
+2021,Information Technology,Expansion,817,60,7.343941248470013
+2021,Information Technology,New Facility,817,55,6.731946144430845
+2021,Information Technology,Relocation,817,18,2.203182374541004
+2021,Information Technology,Renovation,817,10,1.2239902080783354
+2022,Information Technology,Consolidation,835,7,0.8383233532934131
+2022,Information Technology,Expansion,835,38,4.550898203592815
+2022,Information Technology,New Facility,835,57,6.826347305389222
+2022,Information Technology,Relocation,835,27,3.2335329341317367
+2022,Information Technology,Renovation,835,11,1.3173652694610778
+2023,Information Technology,Consolidation,812,9,1.1083743842364533
+2023,Information Technology,Expansion,812,49,6.0344827586206895
+2023,Information Technology,New Facility,812,38,4.679802955665025
+2023,Information Technology,Relocation,812,19,2.3399014778325125
+2023,Information Technology,Renovation,812,8,0.9852216748768473
+2024,Information Technology,Consolidation,826,11,1.331719128329298
+2024,Information Technology,Expansion,826,40,4.8426150121065374
+2024,Information Technology,New Facility,826,53,6.416464891041162
+2024,Information Technology,Relocation,826,13,1.573849878934625
+2024,Information Technology,Renovation,826,6,0.7263922518159807
+2025,Information Technology,Consolidation,848,14,1.650943396226415
+2025,Information Technology,Expansion,848,58,6.8396226415094334
+2025,Information Technology,New Facility,848,43,5.070754716981132
+2025,Information Technology,Relocation,848,17,2.0047169811320753
+2025,Information Technology,Renovation,848,7,0.8254716981132075
+2026,Information Technology,Consolidation,862,14,1.6241299303944314
+2026,Information Technology,Expansion,862,60,6.960556844547564
+2026,Information Technology,New Facility,862,56,6.496519721577726
+2026,Information Technology,Relocation,862,15,1.740139211136891
+2026,Information Technology,Renovation,862,11,1.2761020881670533
+2021,Life Sciences & Healthcare,Consolidation,817,11,1.346389228886169
+2021,Life Sciences & Healthcare,Expansion,817,47,5.752753977968176
+2021,Life Sciences & Healthcare,New Facility,817,43,5.263157894736842
+2021,Life Sciences & Healthcare,Relocation,817,9,1.101591187270502
+2021,Life Sciences & Healthcare,Renovation,817,9,1.101591187270502
+2022,Life Sciences & Healthcare,Consolidation,835,10,1.1976047904191618
+2022,Life Sciences & Healthcare,Expansion,835,53,6.347305389221557
+2022,Life Sciences & Healthcare,New Facility,835,49,5.868263473053893
+2022,Life Sciences & Healthcare,Relocation,835,14,1.6766467065868262
+2022,Life Sciences & Healthcare,Renovation,835,8,0.9580838323353293
+2023,Life Sciences & Healthcare,Consolidation,812,13,1.600985221674877
+2023,Life Sciences & Healthcare,Expansion,812,52,6.403940886699508
+2023,Life Sciences & Healthcare,New Facility,812,40,4.926108374384237
+2023,Life Sciences & Healthcare,Relocation,812,7,0.8620689655172413
+2023,Life Sciences & Healthcare,Renovation,812,9,1.1083743842364533
+2024,Life Sciences & Healthcare,Consolidation,826,6,0.7263922518159807
+2024,Life Sciences & Healthcare,Expansion,826,51,6.174334140435835
+2024,Life Sciences & Healthcare,New Facility,826,56,6.779661016949152
+2024,Life Sciences & Healthcare,Relocation,826,17,2.0581113801452786
+2024,Life Sciences & Healthcare,Renovation,826,6,0.7263922518159807
+2025,Life Sciences & Healthcare,Consolidation,848,11,1.2971698113207548
+2025,Life Sciences & Healthcare,Expansion,848,44,5.188679245283019
+2025,Life Sciences & Healthcare,New Facility,848,53,6.25
+2025,Life Sciences & Healthcare,Relocation,848,17,2.0047169811320753
+2025,Life Sciences & Healthcare,Renovation,848,9,1.0613207547169812
+2026,Life Sciences & Healthcare,Consolidation,862,16,1.8561484918793503
+2026,Life Sciences & Healthcare,Expansion,862,55,6.380510440835267
+2026,Life Sciences & Healthcare,New Facility,862,45,5.220417633410673
+2026,Life Sciences & Healthcare,Relocation,862,18,2.088167053364269
+2026,Life Sciences & Healthcare,Renovation,862,8,0.9280742459396751
+2021,Logistics & Distribution,Consolidation,817,10,1.2239902080783354
+2021,Logistics & Distribution,Expansion,817,55,6.731946144430845
+2021,Logistics & Distribution,New Facility,817,39,4.773561811505508
+2021,Logistics & Distribution,Relocation,817,15,1.8359853121175032
+2021,Logistics & Distribution,Renovation,817,4,0.4895960832313341
+2022,Logistics & Distribution,Consolidation,835,12,1.437125748502994
+2022,Logistics & Distribution,Expansion,835,45,5.389221556886228
+2022,Logistics & Distribution,New Facility,835,55,6.58682634730539
+2022,Logistics & Distribution,Relocation,835,19,2.2754491017964074
+2022,Logistics & Distribution,Renovation,835,11,1.3173652694610778
+2023,Logistics & Distribution,Consolidation,812,19,2.3399014778325125
+2023,Logistics & Distribution,Expansion,812,54,6.65024630541872
+2023,Logistics & Distribution,New Facility,812,54,6.65024630541872
+2023,Logistics & Distribution,Relocation,812,23,2.832512315270936
+2023,Logistics & Distribution,Renovation,812,8,0.9852216748768473
+2024,Logistics & Distribution,Consolidation,826,15,1.8159806295399514
+2024,Logistics & Distribution,Expansion,826,46,5.569007263922518
+2024,Logistics & Distribution,New Facility,826,57,6.900726392251816
+2024,Logistics & Distribution,Relocation,826,19,2.3002421307506054
+2024,Logistics & Distribution,Renovation,826,6,0.7263922518159807
+2025,Logistics & Distribution,Consolidation,848,9,1.0613207547169812
+2025,Logistics & Distribution,Expansion,848,62,7.311320754716981
+2025,Logistics & Distribution,New Facility,848,63,7.429245283018868
+2025,Logistics & Distribution,Relocation,848,15,1.7688679245283019
+2025,Logistics & Distribution,Renovation,848,10,1.179245283018868
+2026,Logistics & Distribution,Consolidation,862,12,1.3921113689095126
+2026,Logistics & Distribution,Expansion,862,52,6.0324825986078885
+2026,Logistics & Distribution,New Facility,862,61,7.076566125290023
+2026,Logistics & Distribution,Relocation,862,16,1.8561484918793503
+2026,Logistics & Distribution,Renovation,862,8,0.9280742459396751

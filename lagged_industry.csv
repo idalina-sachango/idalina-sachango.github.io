@@ -1,0 +1,169 @@
+industry_cluster,quarter_year,new_companies,pct_change
+Advanced Manufacturing,2021.1,37,NA
+Advanced Manufacturing,2021.2,36,-2.7777777777777777
+Advanced Manufacturing,2021.3,35,-2.857142857142857
+Advanced Manufacturing,2021.4,28,-25
+Advanced Manufacturing,2022.1,33,15.151515151515152
+Advanced Manufacturing,2022.2,36,8.333333333333332
+Advanced Manufacturing,2022.3,40,10
+Advanced Manufacturing,2022.4,26,-53.84615384615385
+Advanced Manufacturing,2023.1,28,7.142857142857142
+Advanced Manufacturing,2023.2,36,22.22222222222222
+Advanced Manufacturing,2023.3,45,20
+Advanced Manufacturing,2023.4,40,-12.5
+Advanced Manufacturing,2024.1,32,-25
+Advanced Manufacturing,2024.2,35,8.571428571428571
+Advanced Manufacturing,2024.3,30,-16.666666666666664
+Advanced Manufacturing,2024.4,40,25
+Advanced Manufacturing,2025.1,42,4.761904761904762
+Advanced Manufacturing,2025.2,44,4.545454545454546
+Advanced Manufacturing,2025.3,37,-18.91891891891892
+Advanced Manufacturing,2025.4,36,-2.7777777777777777
+Advanced Manufacturing,2026.1,42,14.285714285714285
+Advanced Manufacturing,2026.2,41,-2.4390243902439024
+Advanced Manufacturing,2026.3,54,24.074074074074073
+Advanced Manufacturing,2026.4,10,-440.00000000000006
+Energy & Chemicals,2021.1,40,NA
+Energy & Chemicals,2021.2,41,2.4390243902439024
+Energy & Chemicals,2021.3,35,-17.142857142857142
+Energy & Chemicals,2021.4,34,-2.941176470588235
+Energy & Chemicals,2022.1,32,-6.25
+Energy & Chemicals,2022.2,29,-10.344827586206897
+Energy & Chemicals,2022.3,32,9.375
+Energy & Chemicals,2022.4,35,8.571428571428571
+Energy & Chemicals,2023.1,36,2.7777777777777777
+Energy & Chemicals,2023.2,37,2.7027027027027026
+Energy & Chemicals,2023.3,35,-5.714285714285714
+Energy & Chemicals,2023.4,32,-9.375
+Energy & Chemicals,2024.1,44,27.27272727272727
+Energy & Chemicals,2024.2,38,-15.789473684210526
+Energy & Chemicals,2024.3,41,7.317073170731707
+Energy & Chemicals,2024.4,28,-46.42857142857143
+Energy & Chemicals,2025.1,32,12.5
+Energy & Chemicals,2025.2,31,-3.225806451612903
+Energy & Chemicals,2025.3,34,8.823529411764707
+Energy & Chemicals,2025.4,31,-9.67741935483871
+Energy & Chemicals,2026.1,49,36.734693877551024
+Energy & Chemicals,2026.2,45,-8.88888888888889
+Energy & Chemicals,2026.3,45,0
+Energy & Chemicals,2026.4,13,-246.15384615384616
+Food & Beverage,2021.1,11,NA
+Food & Beverage,2021.2,16,31.25
+Food & Beverage,2021.3,19,15.789473684210526
+Food & Beverage,2021.4,20,5
+Food & Beverage,2022.1,11,-81.81818181818183
+Food & Beverage,2022.2,16,31.25
+Food & Beverage,2022.3,14,-14.285714285714285
+Food & Beverage,2022.4,30,53.333333333333336
+Food & Beverage,2023.1,12,-150
+Food & Beverage,2023.2,23,47.82608695652174
+Food & Beverage,2023.3,17,-35.294117647058826
+Food & Beverage,2023.4,18,5.555555555555555
+Food & Beverage,2024.1,17,-5.88235294117647
+Food & Beverage,2024.2,22,22.727272727272727
+Food & Beverage,2024.3,17,-29.411764705882355
+Food & Beverage,2024.4,21,19.047619047619047
+Food & Beverage,2025.1,19,-10.526315789473683
+Food & Beverage,2025.2,17,-11.76470588235294
+Food & Beverage,2025.3,21,19.047619047619047
+Food & Beverage,2025.4,14,-50
+Food & Beverage,2026.1,19,26.31578947368421
+Food & Beverage,2026.2,15,-26.666666666666668
+Food & Beverage,2026.3,25,40
+Food & Beverage,2026.4,5,-400
+Industrial Services,2021.1,16,NA
+Industrial Services,2021.2,22,27.27272727272727
+Industrial Services,2021.3,13,-69.23076923076923
+Industrial Services,2021.4,19,31.57894736842105
+Industrial Services,2022.1,24,20.833333333333336
+Industrial Services,2022.2,19,-26.31578947368421
+Industrial Services,2022.3,14,-35.714285714285715
+Industrial Services,2022.4,28,50
+Industrial Services,2023.1,8,-250
+Industrial Services,2023.2,15,46.666666666666664
+Industrial Services,2023.3,11,-36.36363636363637
+Industrial Services,2023.4,17,35.294117647058826
+Industrial Services,2024.1,9,-88.88888888888889
+Industrial Services,2024.2,17,47.05882352941176
+Industrial Services,2024.3,14,-21.428571428571427
+Industrial Services,2024.4,19,26.31578947368421
+Industrial Services,2025.1,19,0
+Industrial Services,2025.2,14,-35.714285714285715
+Industrial Services,2025.3,12,-16.666666666666664
+Industrial Services,2025.4,13,7.6923076923076925
+Industrial Services,2026.1,18,27.77777777777778
+Industrial Services,2026.2,18,0
+Industrial Services,2026.3,11,-63.63636363636363
+Industrial Services,2026.4,5,-120
+Information Technology,2021.1,39,NA
+Information Technology,2021.2,30,-30
+Information Technology,2021.3,42,28.57142857142857
+Information Technology,2021.4,42,0
+Information Technology,2022.1,24,-75
+Information Technology,2022.2,37,35.13513513513514
+Information Technology,2022.3,44,15.909090909090908
+Information Technology,2022.4,35,-25.71428571428571
+Information Technology,2023.1,30,-16.666666666666664
+Information Technology,2023.2,41,26.82926829268293
+Information Technology,2023.3,22,-86.36363636363636
+Information Technology,2023.4,30,26.666666666666668
+Information Technology,2024.1,20,-50
+Information Technology,2024.2,36,44.44444444444444
+Information Technology,2024.3,36,0
+Information Technology,2024.4,31,-16.129032258064516
+Information Technology,2025.1,25,-24
+Information Technology,2025.2,40,37.5
+Information Technology,2025.3,39,-2.564102564102564
+Information Technology,2025.4,35,-11.428571428571429
+Information Technology,2026.1,54,35.18518518518518
+Information Technology,2026.2,44,-22.727272727272727
+Information Technology,2026.3,51,13.725490196078432
+Information Technology,2026.4,7,-628.5714285714286
+Life Sciences & Healthcare,2021.1,22,NA
+Life Sciences & Healthcare,2021.2,30,26.666666666666668
+Life Sciences & Healthcare,2021.3,32,6.25
+Life Sciences & Healthcare,2021.4,35,8.571428571428571
+Life Sciences & Healthcare,2022.1,27,-29.629629629629626
+Life Sciences & Healthcare,2022.2,34,20.588235294117645
+Life Sciences & Healthcare,2022.3,35,2.857142857142857
+Life Sciences & Healthcare,2022.4,38,7.894736842105263
+Life Sciences & Healthcare,2023.1,29,-31.03448275862069
+Life Sciences & Healthcare,2023.2,38,23.684210526315788
+Life Sciences & Healthcare,2023.3,27,-40.74074074074074
+Life Sciences & Healthcare,2023.4,27,0
+Life Sciences & Healthcare,2024.1,33,18.181818181818183
+Life Sciences & Healthcare,2024.2,32,-3.125
+Life Sciences & Healthcare,2024.3,33,3.0303030303030303
+Life Sciences & Healthcare,2024.4,38,13.157894736842104
+Life Sciences & Healthcare,2025.1,33,-15.151515151515152
+Life Sciences & Healthcare,2025.2,29,-13.793103448275861
+Life Sciences & Healthcare,2025.3,36,19.444444444444446
+Life Sciences & Healthcare,2025.4,36,0
+Life Sciences & Healthcare,2026.1,46,21.73913043478261
+Life Sciences & Healthcare,2026.2,48,4.166666666666666
+Life Sciences & Healthcare,2026.3,44,-9.090909090909092
+Life Sciences & Healthcare,2026.4,4,-1000
+Logistics & Distribution,2021.1,34,NA
+Logistics & Distribution,2021.2,20,-70
+Logistics & Distribution,2021.3,36,44.44444444444444
+Logistics & Distribution,2021.4,33,-9.090909090909092
+Logistics & Distribution,2022.1,50,34
+Logistics & Distribution,2022.2,36,-38.88888888888889
+Logistics & Distribution,2022.3,33,-9.090909090909092
+Logistics & Distribution,2022.4,23,-43.47826086956522
+Logistics & Distribution,2023.1,47,51.06382978723404
+Logistics & Distribution,2023.2,33,-42.42424242424242
+Logistics & Distribution,2023.3,35,5.714285714285714
+Logistics & Distribution,2023.4,43,18.6046511627907
+Logistics & Distribution,2024.1,32,-34.375
+Logistics & Distribution,2024.2,34,5.88235294117647
+Logistics & Distribution,2024.3,39,12.82051282051282
+Logistics & Distribution,2024.4,38,-2.631578947368421
+Logistics & Distribution,2025.1,36,-5.555555555555555
+Logistics & Distribution,2025.2,36,0
+Logistics & Distribution,2025.3,44,18.181818181818183
+Logistics & Distribution,2025.4,43,-2.3255813953488373
+Logistics & Distribution,2026.1,55,21.818181818181817
+Logistics & Distribution,2026.2,33,-66.66666666666666
+Logistics & Distribution,2026.3,53,37.735849056603776
+Logistics & Distribution,2026.4,8,-562.5

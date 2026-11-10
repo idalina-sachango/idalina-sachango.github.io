@@ -1,0 +1,211 @@
+year,industry_cluster,site_selection_category,total_announcements,count,pct
+2021,Advanced Manufacturing,Brownfield,817,25,3.0599755201958385
+2022,Advanced Manufacturing,Brownfield,835,24,2.874251497005988
+2023,Advanced Manufacturing,Brownfield,812,32,3.9408866995073892
+2024,Advanced Manufacturing,Brownfield,826,29,3.5108958837772395
+2025,Advanced Manufacturing,Brownfield,848,30,3.5377358490566038
+2026,Advanced Manufacturing,Brownfield,862,27,3.1322505800464038
+2021,Advanced Manufacturing,Commercial,817,28,3.4271725826193387
+2022,Advanced Manufacturing,Commercial,835,30,3.592814371257485
+2023,Advanced Manufacturing,Commercial,812,30,3.6945812807881775
+2024,Advanced Manufacturing,Commercial,826,25,3.026634382566586
+2025,Advanced Manufacturing,Commercial,848,30,3.5377358490566038
+2026,Advanced Manufacturing,Commercial,862,25,2.9002320185614847
+2021,Advanced Manufacturing,Greenfield,817,23,2.8151774785801713
+2022,Advanced Manufacturing,Greenfield,835,30,3.592814371257485
+2023,Advanced Manufacturing,Greenfield,812,26,3.201970443349754
+2024,Advanced Manufacturing,Greenfield,826,31,3.753026634382567
+2025,Advanced Manufacturing,Greenfield,848,36,4.245283018867925
+2026,Advanced Manufacturing,Greenfield,862,23,2.668213457076566
+2021,Advanced Manufacturing,Industrial,817,32,3.9167686658506726
+2022,Advanced Manufacturing,Industrial,835,29,3.473053892215569
+2023,Advanced Manufacturing,Industrial,812,33,4.064039408866995
+2024,Advanced Manufacturing,Industrial,826,24,2.9055690072639226
+2025,Advanced Manufacturing,Industrial,848,28,3.30188679245283
+2026,Advanced Manufacturing,Industrial,862,26,3.0162412993039442
+2021,Advanced Manufacturing,Office,817,28,3.4271725826193387
+2022,Advanced Manufacturing,Office,835,22,2.6347305389221556
+2023,Advanced Manufacturing,Office,812,28,3.4482758620689653
+2024,Advanced Manufacturing,Office,826,28,3.389830508474576
+2025,Advanced Manufacturing,Office,848,35,4.127358490566038
+2026,Advanced Manufacturing,Office,862,46,5.336426914153132
+2021,Energy & Chemicals,Brownfield,817,28,3.4271725826193387
+2022,Energy & Chemicals,Brownfield,835,26,3.1137724550898205
+2023,Energy & Chemicals,Brownfield,812,20,2.4630541871921183
+2024,Energy & Chemicals,Brownfield,826,33,3.9951573849878934
+2025,Energy & Chemicals,Brownfield,848,22,2.5943396226415096
+2026,Energy & Chemicals,Brownfield,862,25,2.9002320185614847
+2021,Energy & Chemicals,Commercial,817,29,3.549571603427173
+2022,Energy & Chemicals,Commercial,835,25,2.9940119760479043
+2023,Energy & Chemicals,Commercial,812,37,4.556650246305419
+2024,Energy & Chemicals,Commercial,826,28,3.389830508474576
+2025,Energy & Chemicals,Commercial,848,23,2.7122641509433962
+2026,Energy & Chemicals,Commercial,862,32,3.7122969837587005
+2021,Energy & Chemicals,Greenfield,817,36,4.406364749082008
+2022,Energy & Chemicals,Greenfield,835,20,2.3952095808383236
+2023,Energy & Chemicals,Greenfield,812,37,4.556650246305419
+2024,Energy & Chemicals,Greenfield,826,30,3.631961259079903
+2025,Energy & Chemicals,Greenfield,848,28,3.30188679245283
+2026,Energy & Chemicals,Greenfield,862,35,4.060324825986079
+2021,Energy & Chemicals,Industrial,817,28,3.4271725826193387
+2022,Energy & Chemicals,Industrial,835,27,3.2335329341317367
+2023,Energy & Chemicals,Industrial,812,22,2.70935960591133
+2024,Energy & Chemicals,Industrial,826,30,3.631961259079903
+2025,Energy & Chemicals,Industrial,848,29,3.4198113207547167
+2026,Energy & Chemicals,Industrial,862,23,2.668213457076566
+2021,Energy & Chemicals,Office,817,29,3.549571603427173
+2022,Energy & Chemicals,Office,835,30,3.592814371257485
+2023,Energy & Chemicals,Office,812,24,2.955665024630542
+2024,Energy & Chemicals,Office,826,30,3.631961259079903
+2025,Energy & Chemicals,Office,848,26,3.0660377358490565
+2026,Energy & Chemicals,Office,862,37,4.292343387470997
+2021,Food & Beverage,Brownfield,817,12,1.4687882496940026
+2022,Food & Beverage,Brownfield,835,15,1.7964071856287425
+2023,Food & Beverage,Brownfield,812,12,1.477832512315271
+2024,Food & Beverage,Brownfield,826,12,1.4527845036319613
+2025,Food & Beverage,Brownfield,848,18,2.1226415094339623
+2026,Food & Beverage,Brownfield,862,7,0.8120649651972157
+2021,Food & Beverage,Commercial,817,13,1.591187270501836
+2022,Food & Beverage,Commercial,835,12,1.437125748502994
+2023,Food & Beverage,Commercial,812,14,1.7241379310344827
+2024,Food & Beverage,Commercial,826,13,1.573849878934625
+2025,Food & Beverage,Commercial,848,14,1.650943396226415
+2026,Food & Beverage,Commercial,862,15,1.740139211136891
+2021,Food & Beverage,Greenfield,817,14,1.7135862913096693
+2022,Food & Beverage,Greenfield,835,21,2.5149700598802394
+2023,Food & Beverage,Greenfield,812,13,1.600985221674877
+2024,Food & Beverage,Greenfield,826,18,2.1791767554479415
+2025,Food & Beverage,Greenfield,848,11,1.2971698113207548
+2026,Food & Beverage,Greenfield,862,19,2.2041763341067284
+2021,Food & Beverage,Industrial,817,11,1.346389228886169
+2022,Food & Beverage,Industrial,835,12,1.437125748502994
+2023,Food & Beverage,Industrial,812,19,2.3399014778325125
+2024,Food & Beverage,Industrial,826,18,2.1791767554479415
+2025,Food & Beverage,Industrial,848,10,1.179245283018868
+2026,Food & Beverage,Industrial,862,16,1.8561484918793503
+2021,Food & Beverage,Office,817,16,1.9583843329253363
+2022,Food & Beverage,Office,835,11,1.3173652694610778
+2023,Food & Beverage,Office,812,12,1.477832512315271
+2024,Food & Beverage,Office,826,16,1.937046004842615
+2025,Food & Beverage,Office,848,18,2.1226415094339623
+2026,Food & Beverage,Office,862,7,0.8120649651972157
+2021,Industrial Services,Brownfield,817,11,1.346389228886169
+2022,Industrial Services,Brownfield,835,14,1.6766467065868262
+2023,Industrial Services,Brownfield,812,15,1.8472906403940887
+2024,Industrial Services,Brownfield,826,17,2.0581113801452786
+2025,Industrial Services,Brownfield,848,9,1.0613207547169812
+2026,Industrial Services,Brownfield,862,16,1.8561484918793503
+2021,Industrial Services,Commercial,817,15,1.8359853121175032
+2022,Industrial Services,Commercial,835,23,2.754491017964072
+2023,Industrial Services,Commercial,812,14,1.7241379310344827
+2024,Industrial Services,Commercial,826,8,0.9685230024213075
+2025,Industrial Services,Commercial,848,9,1.0613207547169812
+2026,Industrial Services,Commercial,862,5,0.580046403712297
+2021,Industrial Services,Greenfield,817,12,1.4687882496940026
+2022,Industrial Services,Greenfield,835,15,1.7964071856287425
+2023,Industrial Services,Greenfield,812,10,1.2315270935960592
+2024,Industrial Services,Greenfield,826,11,1.331719128329298
+2025,Industrial Services,Greenfield,848,10,1.179245283018868
+2026,Industrial Services,Greenfield,862,10,1.160092807424594
+2021,Industrial Services,Industrial,817,13,1.591187270501836
+2022,Industrial Services,Industrial,835,14,1.6766467065868262
+2023,Industrial Services,Industrial,812,5,0.6157635467980296
+2024,Industrial Services,Industrial,826,15,1.8159806295399514
+2025,Industrial Services,Industrial,848,14,1.650943396226415
+2026,Industrial Services,Industrial,862,11,1.2761020881670533
+2021,Industrial Services,Office,817,19,2.3255813953488373
+2022,Industrial Services,Office,835,19,2.2754491017964074
+2023,Industrial Services,Office,812,7,0.8620689655172413
+2024,Industrial Services,Office,826,8,0.9685230024213075
+2025,Industrial Services,Office,848,16,1.8867924528301887
+2026,Industrial Services,Office,862,10,1.160092807424594
+2021,Information Technology,Brownfield,817,32,3.9167686658506726
+2022,Information Technology,Brownfield,835,26,3.1137724550898205
+2023,Information Technology,Brownfield,812,29,3.571428571428571
+2024,Information Technology,Brownfield,826,15,1.8159806295399514
+2025,Information Technology,Brownfield,848,35,4.127358490566038
+2026,Information Technology,Brownfield,862,28,3.248259860788863
+2021,Information Technology,Commercial,817,33,4.039167686658507
+2022,Information Technology,Commercial,835,25,2.9940119760479043
+2023,Information Technology,Commercial,812,23,2.832512315270936
+2024,Information Technology,Commercial,826,20,2.4213075060532687
+2025,Information Technology,Commercial,848,25,2.94811320754717
+2026,Information Technology,Commercial,862,29,3.3642691415313224
+2021,Information Technology,Greenfield,817,29,3.549571603427173
+2022,Information Technology,Greenfield,835,34,4.07185628742515
+2023,Information Technology,Greenfield,812,21,2.586206896551724
+2024,Information Technology,Greenfield,826,32,3.87409200968523
+2025,Information Technology,Greenfield,848,24,2.8301886792452833
+2026,Information Technology,Greenfield,862,41,4.756380510440835
+2021,Information Technology,Industrial,817,27,3.3047735618115053
+2022,Information Technology,Industrial,835,24,2.874251497005988
+2023,Information Technology,Industrial,812,18,2.2167487684729066
+2024,Information Technology,Industrial,826,33,3.9951573849878934
+2025,Information Technology,Industrial,848,26,3.0660377358490565
+2026,Information Technology,Industrial,862,28,3.248259860788863
+2021,Information Technology,Office,817,32,3.9167686658506726
+2022,Information Technology,Office,835,31,3.7125748502994016
+2023,Information Technology,Office,812,32,3.9408866995073892
+2024,Information Technology,Office,826,23,2.784503631961259
+2025,Information Technology,Office,848,29,3.4198113207547167
+2026,Information Technology,Office,862,30,3.480278422273782
+2021,Life Sciences & Healthcare,Brownfield,817,24,2.937576499388005
+2022,Life Sciences & Healthcare,Brownfield,835,26,3.1137724550898205
+2023,Life Sciences & Healthcare,Brownfield,812,24,2.955665024630542
+2024,Life Sciences & Healthcare,Brownfield,826,19,2.3002421307506054
+2025,Life Sciences & Healthcare,Brownfield,848,27,3.1839622641509435
+2026,Life Sciences & Healthcare,Brownfield,862,33,3.82830626450116
+2021,Life Sciences & Healthcare,Commercial,817,24,2.937576499388005
+2022,Life Sciences & Healthcare,Commercial,835,35,4.191616766467066
+2023,Life Sciences & Healthcare,Commercial,812,20,2.4630541871921183
+2024,Life Sciences & Healthcare,Commercial,826,25,3.026634382566586
+2025,Life Sciences & Healthcare,Commercial,848,28,3.30188679245283
+2026,Life Sciences & Healthcare,Commercial,862,27,3.1322505800464038
+2021,Life Sciences & Healthcare,Greenfield,817,19,2.3255813953488373
+2022,Life Sciences & Healthcare,Greenfield,835,14,1.6766467065868262
+2023,Life Sciences & Healthcare,Greenfield,812,30,3.6945812807881775
+2024,Life Sciences & Healthcare,Greenfield,826,33,3.9951573849878934
+2025,Life Sciences & Healthcare,Greenfield,848,22,2.5943396226415096
+2026,Life Sciences & Healthcare,Greenfield,862,24,2.784222737819025
+2021,Life Sciences & Healthcare,Industrial,817,29,3.549571603427173
+2022,Life Sciences & Healthcare,Industrial,835,26,3.1137724550898205
+2023,Life Sciences & Healthcare,Industrial,812,22,2.70935960591133
+2024,Life Sciences & Healthcare,Industrial,826,22,2.663438256658596
+2025,Life Sciences & Healthcare,Industrial,848,30,3.5377358490566038
+2026,Life Sciences & Healthcare,Industrial,862,30,3.480278422273782
+2021,Life Sciences & Healthcare,Office,817,23,2.8151774785801713
+2022,Life Sciences & Healthcare,Office,835,33,3.952095808383234
+2023,Life Sciences & Healthcare,Office,812,25,3.0788177339901477
+2024,Life Sciences & Healthcare,Office,826,37,4.479418886198547
+2025,Life Sciences & Healthcare,Office,848,27,3.1839622641509435
+2026,Life Sciences & Healthcare,Office,862,28,3.248259860788863
+2021,Logistics & Distribution,Brownfield,817,26,3.182374541003672
+2022,Logistics & Distribution,Brownfield,835,32,3.8323353293413174
+2023,Logistics & Distribution,Brownfield,812,28,3.4482758620689653
+2024,Logistics & Distribution,Brownfield,826,30,3.631961259079903
+2025,Logistics & Distribution,Brownfield,848,32,3.7735849056603774
+2026,Logistics & Distribution,Brownfield,862,21,2.436194895591647
+2021,Logistics & Distribution,Commercial,817,21,2.570379436964504
+2022,Logistics & Distribution,Commercial,835,29,3.473053892215569
+2023,Logistics & Distribution,Commercial,812,30,3.6945812807881775
+2024,Logistics & Distribution,Commercial,826,29,3.5108958837772395
+2025,Logistics & Distribution,Commercial,848,31,3.6556603773584904
+2026,Logistics & Distribution,Commercial,862,34,3.944315545243619
+2021,Logistics & Distribution,Greenfield,817,22,2.692778457772338
+2022,Logistics & Distribution,Greenfield,835,23,2.754491017964072
+2023,Logistics & Distribution,Greenfield,812,32,3.9408866995073892
+2024,Logistics & Distribution,Greenfield,826,25,3.026634382566586
+2025,Logistics & Distribution,Greenfield,848,25,2.94811320754717
+2026,Logistics & Distribution,Greenfield,862,30,3.480278422273782
+2021,Logistics & Distribution,Industrial,817,22,2.692778457772338
+2022,Logistics & Distribution,Industrial,835,29,3.473053892215569
+2023,Logistics & Distribution,Industrial,812,40,4.926108374384237
+2024,Logistics & Distribution,Industrial,826,29,3.5108958837772395
+2025,Logistics & Distribution,Industrial,848,38,4.481132075471698
+2026,Logistics & Distribution,Industrial,862,40,4.640371229698376
+2021,Logistics & Distribution,Office,817,32,3.9167686658506726
+2022,Logistics & Distribution,Office,835,29,3.473053892215569
+2023,Logistics & Distribution,Office,812,28,3.4482758620689653
+2024,Logistics & Distribution,Office,826,30,3.631961259079903
+2025,Logistics & Distribution,Office,848,33,3.891509433962264
+2026,Logistics & Distribution,Office,862,24,2.784222737819025
