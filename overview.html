@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overview</title>
+
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+    <!-- leafleft maps -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@2.0.0-beta.2/dist/leaflet.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@2.0.0-beta.1/dist/MarkerCluster.Default.css">
+	  <script type="importmap">
+	  	{"imports": {"leaflet": "https://cdn.jsdelivr.net/npm/leaflet@2.0.0-beta.2/dist/leaflet.js", "leaflet.markercluster": "https://cdn.jsdelivr.net/npm/leaflet.markercluster@2.0.0-beta.1/dist/leaflet.markercluster.js"}}
+	  </script>
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg" data-bs-theme="dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="index.html"><h4>Houston New Business Announcements</h4></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDarkDropdown" aria-controls="navbarNavDarkDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
+          <ul class="navbar-nav">
+            <li class = "nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id = "navbarDarkDropdownMenuLink" role = button data-bs-toggle="dropdown" aria-expanded="false">Explore Site</a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDarkDropdownMenuLink">
+                <li>
+                  <a class="dropdown-item" href="index.html">Home</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="trend.html">Trends</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+    <div class="sidebar-layout">
+      <!-- dropdown select columns are in this section -->
+      <aside class="sidebar">
+
+        <div class="sidebar-layout fixed-on-page">
+          <select id="year" class="form-select"></select>
+          <select id="industry" class="form-select"></select>
+
+        </div>
+        
+      </aside>
+      <!-- main content like graphs and maps are in this section -->
+      <main class="content">
+        <div class="container-fluid html-fill-item html-fill-container">
+          <div class="center">
+            <h5>Overview</h5>
+            <p> This page shows a directory of new businesses for the current and historical years and their locations around the Houston Metro Service Area. To see specific years and industries, click the dropdown button.</p>
+        </div>
+        </div>
+
+        <!--the map and table are in this section -->
+        <div id="business-table" class="container-fluid html-fill-item html-fill-container">
+          <div class="row">
+              <!--table will go in here -->
+              <div id="industry-table">
+              
+              </div>
+          </div>
+        </div>
+
+        <div id="business-map" class="container-fluid html-fill-item html-fill-container" >
+          <div class="row">
+              <!--map will go in here -->
+              <div id="map-location" style="height: 500px; width: 100%">
+              
+              </div>
+          </div>
+        </div>
+
+
+      </main>
+    </div>
+
+  <!-- Latest D3.js v7.9.0 from cdnjs -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <!-- Bootstrap JavaScript -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+  <!-- My JavaScript -->
+  <script type="module" src="js/overview.js" defer></script>
+  <script type="module" src="js/map.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,192 @@
+
+body, html {
+  font-family: ui-sans-serif, system-ui, sans-serif;
+}
+
+p, h5 {
+  font-family: inherit;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+tr {
+  width: 75%;
+}
+
+th {
+  background-color: #BFCED6;
+  color: #003B5C;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #003B5C;
+    overflow-wrap: break-word;
+}
+
+select {
+  font-family: inherit;
+}
+
+/* all tags with class sidebar-layout will have a two-column structure*/
+.sidebar-layout {
+  display: grid;
+  /* sidebar adapts to different screen sizes (minimum, preferred, max) */
+  grid-template-columns: clamp(160px, 20vw, 400px) minmax(0, 1fr); 
+  border-color: #003B5C;
+  min-height: 100vh;
+  width: 100%;
+}
+
+.sidebar-layout.fixed-on-page{
+  grid-column: 1;
+  display: flex;
+  flex-direction: column;
+  position: sticky;
+  overflow-y: auto;
+  box-sizing: border-box;
+  min-width: 0;
+  background: white;
+  padding: 1.5rem;
+  gap: 0.75rem;
+
+}
+
+.sidebar-layout .content {
+  grid-column: 2;
+  min-width: 0;
+  box-sizing: border-box;
+  padding: 1rem;
+}
+
+@media (max-width: 768px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+.container {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+/* Customize how we want to fill the container space */
+.html-fill-container {
+  display: flex;
+  flex-direction: column;
+  /* Prevent the container from expanding vertically or horizontally beyond its
+  parent's constraints. */
+  min-height: 0;
+  min-width: 0;
+}
+
+.html-fill-container > .html-fill-item {
+  /* Fill items can grow and shrink freely within
+  available vertical space in fillable container */
+  flex: 1 1 auto;
+  min-height: 0;
+  min-width: 0;
+}
+
+.html-fill-container > :not(.html-fill-item) {
+  /* Prevent shrinking or growing of non-fill items */
+  flex: 0 0 auto;
+}
+
+/* Customize grid layouts for parts of the website */
+.grid-layout {
+    display: grid !important;
+    gap: 1rem;
+}
+
+.grid-layout>* {
+    grid-column: auto / span var(--_item-column-span, 1)
+}
+
+.grid-layout.grid {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    grid-template-rows: unset;
+    grid-auto-rows: 1;
+    --bslib-grid--row-heights--xs: unset;
+    --bslib-grid--row-heights--sm: unset;
+    --bslib-grid--row-heights--md: unset;
+    --bslib-grid--row-heights--lg: unset;
+    --bslib-grid--row-heights--xl: unset;
+    --bslib-grid--row-heights--xxl: unset
+}
+
+
+.btn {
+  font-family: inherit;
+  padding: 10px 24px;
+  border: 1px solid #003B5C;
+  border-radius: 5px;
+  background-color: #BFCED6;
+  cursor: pointer;
+}
+
+.btn.action-button {
+  width: 100%;
+  box-sizing: border-box;
+  /* Allows text to wrap onto multiple lines. */
+  white-space: normal; 
+  /* Words can break when button shrinks, if necessary */
+  overflow-wrap: break-word; 
+  text-align: center;
+  padding: 10px 16px;
+}
+
+.btn:hover {
+  background-color:#003B5C;
+  color: #BFCED6;
+}
+
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1030; /* Keeps it above other elements */
+  background-color: #BFCED6;
+  border: 2px solid #BFCED6;
+  width: 100%
+}
+
+.navbar .navbar-nav {
+  
+  background-color: #BFCED6;
+  border-color: #BFCED6;
+  
+}
+.navbar .nav-link:hover {
+  color: #003B5C;
+}
+/*this makes the drop down arrow black*/
+.navbar .nav-link {
+  color: #003B5C;
+}
+/*this makes the title on the navbar blaclk*/
+.navbar .navbar-brand {
+  color: #003B5C;
+}
+    
+/* this makes the dropdown menu a blue color instead of the standard dark color */
+.dropdown-menu {
+  --bs-dropdown-bg: #003B5C;
+  --bs-dropdown-color: #003B5C;
+  --bs-dropdown-border-color: #BFCED6;
+  --bs-dropdown-link-hover-bg: #003B5C;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  font-size: 15px;
+}
