@@ -155,6 +155,7 @@ async function updateTable(filtered_data, page) {
 // Initialize dashboard
 async function init() {
     const data = await fetchData();
+    console.log(data)
 
     industryDropdown(data.industryList);
     yearDropdown();
