@@ -3,12 +3,12 @@ export async function fetchData() {
     try {
         const [processedData, barCategory, industryList, laggedIndustry, laggedYear, houstonMap] = 
         await Promise.all([
-            d3.csv('../../data/processed/test_data_slightly_cleaned.csv'),
-            d3.csv('../../data/processed/bar_category.csv'),
-            d3.csv('../../data/processed/industry_list.csv'),
-            d3.csv('../../data/processed/lagged_industry.csv'),
-            d3.csv('../../data/processed/lagged_year.csv'),
-            d3.json('../../data/processed/houston_map.geojson')
+            d3.csv('test_data_slightly_cleaned.csv'),
+            d3.csv('bar_category.csv'),
+            d3.csv('industry_list.csv'),
+            d3.csv('lagged_industry.csv'),
+            d3.csv('lagged_year.csv'),
+            d3.json('houston_map.geojson')
         ]);
 
         /* needs to be returned */
